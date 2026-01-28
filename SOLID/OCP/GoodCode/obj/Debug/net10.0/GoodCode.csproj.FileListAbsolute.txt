@@ -1,0 +1,14 @@
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/bin/Debug/net10.0/GoodCode
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/bin/Debug/net10.0/GoodCode.deps.json
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/bin/Debug/net10.0/GoodCode.runtimeconfig.json
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/bin/Debug/net10.0/GoodCode.dll
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/bin/Debug/net10.0/GoodCode.pdb
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.AssemblyInfoInputs.cache
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.AssemblyInfo.cs
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.csproj.CoreCompileInputs.cache
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.dll
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/refint/GoodCode.dll
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.pdb
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/GoodCode.genruntimeconfig.cache
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/SOLID/OCP/GoodCode/obj/Debug/net10.0/ref/GoodCode.dll
