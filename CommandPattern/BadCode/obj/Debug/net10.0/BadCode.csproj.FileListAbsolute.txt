@@ -1,0 +1,15 @@
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.AssemblyInfoInputs.cache
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.AssemblyInfo.cs
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.csproj.CoreCompileInputs.cache
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.sourcelink.json
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/bin/Debug/net10.0/BadCode
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/bin/Debug/net10.0/BadCode.deps.json
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/bin/Debug/net10.0/BadCode.runtimeconfig.json
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/bin/Debug/net10.0/BadCode.dll
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/bin/Debug/net10.0/BadCode.pdb
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.dll
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/refint/BadCode.dll
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.pdb
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/BadCode.genruntimeconfig.cache
+/Users/tarunkoli/Desktop/Tarun Koli/System Design/CommandPattern/BadCode/obj/Debug/net10.0/ref/BadCode.dll
